@@ -1,3 +1,5 @@
+# how any different discount brackets exist? what are they?
+
 import pyspark
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import sum
