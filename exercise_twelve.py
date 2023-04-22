@@ -1,1 +1,1 @@
-#how much more (or less) profit is that?
+# what would have been the total profit if we removed all orders from that discount group?
